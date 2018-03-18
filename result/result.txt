@@ -1,0 +1,7 @@
+Frequent 1-itemset 
+	6 : {'20'} 
+Frequent 2-itemset 
+	5 : {'20', '80'} 
+Tail Count = 6
+	2 : {'90', '50'} 
+Tail Count = 2
